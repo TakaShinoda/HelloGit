@@ -1,3 +1,2 @@
 ## influence.php
-PageRankの近似解法を用いたTwitterアカウントの影響力を数値化
-
+PageRankの近似解法を用いたTwitterアカウントの影響力を数値化するツールです。
